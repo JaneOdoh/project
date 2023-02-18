@@ -1,0 +1,688 @@
+nav ul {
+    display: flex;
+    
+    justify-content: space-between;
+    margin-top: 20px;
+    position: sticky;
+}
+nav ul li a{
+    text-decoration: none;
+    list-style: none;
+    color:  #4e6f7e;
+    margin-top: 20px;
+    font-family: "Proxima Nova Bold",sans-serif;
+    position: sticky;
+    
+}
+nav ul li{
+    list-style: none;
+}
+.one{
+    display: flex;
+    margin-right: 70px;
+
+
+    
+    
+}
+.boo{
+    height: 5vh;
+}
+ .two{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+nav{
+    
+    margin: -20px;
+    padding: 0px;
+    position: sticky;
+}
+.one li a{
+    justify-content: space-between;
+}
+.one li{
+    justify-content: space-between;
+    padding: 20px;
+}
+nav ul li button{
+    background-image:linear-gradient(90deg,#287A9F 0%,#156380 100%) ;
+
+    cursor: pointer;
+    
+    border-radius: 20px;
+    color:white;
+    width: 90px;
+    height: 40px;
+    padding:10px 15px;
+    font-size: 1rem;
+    margin-top: -10px;
+    
+    
+    
+}
+.two{
+    margin-top: 15px;
+}
+.three{
+    display: flex;
+    background-image:linear-gradient(90deg,#E72429 33%,#F76400 66%);
+    margin: -10px;
+    height: 15vh;
+    position: sticky;
+}
+.three img{
+    height: 8vh;
+    margin-left: 50px;
+}
+.four{
+    display: flex;
+   justify-content: space-around;
+   margin: 20px;
+   gap: 30px;
+   margin-left: 150px;
+   margin-top: 40px;
+   color: white;
+}
+.four li {
+   
+    list-style: none;
+    justify-content: space-be;
+}
+.four li button{
+   
+    
+    
+    font-size: .875rem;
+    
+    border-radius: 25px;
+    box-shadow: 0 20px 50px 10px rgb(20 61 80 / 15%);
+    width: 200px;
+    
+    
+   
+    
+    padding-bottom: 5px;
+    padding-top: 5px;
+    height: 50px;
+    margin-top: -20px;
+    
+  
+   
+   color: #E72429;
+   
+   
+   margin-left: 20px;
+  
+   cursor: pointer;
+
+    
+   
+
+}
+.vid video{
+    height: 60vh;
+   
+}
+.five{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.five h1{
+    color: #287a9f;
+   font-family: 'Courier New', Courier, monospace;
+
+   
+}
+.five img{
+    height: 25vh;
+}
+.six button{
+    padding: 10px;
+    margin: 15px;
+    border-radius: 25px;
+    width: 200px;
+}
+.seven{
+    display: flex;
+    margin-left: 200px;
+    gap: 30px;
+    margin-top: 150px;
+}
+.box1{
+   background-color: whitesmoke;
+   height: 70vh; 
+   width: 20vw;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 1.5;
+   color: #143d50;
+   font-size: 1.125rem;
+}
+
+.box2{
+    background-color: whitesmoke;
+    height: 70vh; 
+   width: 20vw;
+   border-radius: 25px;
+   text-align: center;
+   line-height: 1.5;
+   color: #143d50;
+   font-size: 1.125rem;
+}
+.box3{background-color: whitesmoke;
+height: 70vh; 
+   width: 20vw;
+   border-radius: 25px;
+   line-height: 1.5;
+   color: #143d50;
+   font-size: 1.125rem;
+text-align: center;}
+.seven button{
+    padding: 15px 25px ;
+    border-radius: 20px;
+    width: 180px;
+    background-image:linear-gradient(90deg,#E72429 33%,#F76400 66%);
+    margin-top: 20px;
+}
+.seven p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.eight{
+    
+    margin-top: 100px;
+    margin-left: auto;
+    max-width: 1030px;
+    max-height: 110px;
+    margin-right: auto;
+    
+}
+.eight h3{
+    text-align: center;
+    color: #287a9f;
+}
+.nine{
+    display: flex;
+    justify-content: space-around;
+}
+.nine li{
+    list-style: none;
+    max-width: 130px;
+    max-height: 110px;
+}
+.ten{
+    display: flex;
+    justify-content: space-around;
+}
+.ten li{
+    list-style: none;
+}
+.eleven{
+    background-color:#f2f8fa;
+    
+    margin-top: 200px;
+}
+.thirteen{
+    display: flex;
+}
+.box5{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.box5 button{border-radius: 20px;
+    background-image: linear-gradient(90deg,#E72429 33%,#F76400 66%);
+    padding: 10px 15px;
+    width: 200px;
+    color: white;
+    text-transform: uppercase;
+    height: 50px;
+    
+}
+.box5 h1{
+    color: #287a9f;
+}
+.box5 h4{
+    color: #287a9f;
+}
+.box5 p{
+    color: #288d9fd8;
+   font-size: 1.2rem;
+   font-family: "Proxima Nova Regular",sans-serif;
+   line-height: 1.5;
+}
+.box4 h3{
+    background-color: #e72429;
+    width: 420px;
+    height: 150px;
+   
+    position: absolute;
+    padding: 22px 35px;
+    border-radius: 10px;
+   top: 320px;
+   left: 68px;
+   font-size: 24px;
+   font-family: "Tiempos Headline Bold",serif;
+ 
+   
+
+    
+    
+
+}
+.box4{
+    position: relative;
+}
+.box4 img{
+    height: 70vh;
+    width: 30vw;
+}
+.box6{
+    background-color: white;
+    height: 280px;
+    width: 300px;
+    position: absolute;
+    right: 850px;
+    bottom: 0px;
+    top: 1620px;
+   border-radius: 5px;
+   
+
+}
+.box6 h3{
+    color:  #143d50;
+    font-family: "Proxima Nova ExtraBold",sans-serif;
+    font-size: .875rem;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.box6 h4{
+    color:#287A9F;
+    font-family: "Tiempos Headline Bold",serif;
+    
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+.box6 p{
+    color: #143d50;
+    font-family: "Proxima Nova Regular",sans-serif;
+    font-size: 1.125rem;
+    font-weight: 200;
+    margin-left: 40px;
+}
+.box7{
+   
+    text-align: center;
+    margin-top: 300px;
+    background-color:#f2f8fa ;
+   
+}
+.box7 h1{
+    color:  #156380;
+    font-size: 1.5625rem;
+   line-height: 1.2;
+   font-family: 'Courier New', Courier, monospace;
+   text-rendering: optimizeLegibility;
+  
+
+
+}
+.box7 ul li{
+    list-style: none;
+}
+.box7 ul{
+    display: flex;
+    justify-content: space-evenly;
+    color: #143d50;
+    line-height: 1.2;
+    font-size: 1.2rem;
+    
+    max-height: 110px;
+}
+.text h1{
+    color:#156380;
+    font-family:  "Tiempos Headline Bold",serif;
+}
+.text p{
+    color:#143d50;
+    line-height: 1.5;
+    font-size: 1.125rem;
+    font-weight: 400;
+    font-family: "Proxima Nova Regular",sans-serif;;
+}
+.text button{
+    border-radius: 25px;
+    padding: 15px 20px;
+    margin-top: 50px;
+    
+}
+.fourteen{
+    display: flex;
+}
+.text{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.vid{
+    margin-top: 100px;
+    margin-right: 20px;
+}
+.fifteen{
+    background-image: linear-gradient(90deg,#E72429 33%,#F76400 66%);
+     ;
+     height: 140vh;
+}
+form{
+    background-color: white;
+    width: 45vw;
+    height: 95vh;
+    margin-left: 400px;
+    border-radius: 5px;
+    text-align: center;
+    gap: 20px;
+    
+}
+.fifteen h1{
+   
+    margin-left: 400px;
+    padding-top: 100px;
+    color: white;
+    font-family: "Tiempos Headline Bold",serif;
+    font-size: 3rem;
+    line-height: 2.5;
+    flex-wrap: wrap;
+}
+form h3{
+    color:#156380;
+    font-family: "Tiempos Headline Bold",serif;
+    font-size: 2.875rem;
+    line-height: 2.5;
+    
+}
+input[type=text]{
+    width: 200px;
+    height: 50px;
+  
+}
+input[type=email]{
+    width: 420px;
+    height: 50px;
+   
+}
+form button{
+    background-image:linear-gradient(90deg,#E72429 33%,#F76400 66%);
+      ;
+      width: 500px;
+      height: 50px;
+      border-radius: 25px;
+      color: white;
+      text-transform: uppercase;
+      margin-top: 20px;
+}
+.God{
+    
+    width: 820px;
+}
+.sixteen{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sixteen ul li{
+   
+    list-style: none;
+    color:#4e6f7e;
+    line-height: 1.5;
+    font-weight: 200;
+     font-family: "Proxima Nova ExtraBold",sans-serif;
+}
+.sixteen h5{
+    color:  #4e6f7e;
+    letter-spacing: .12rem;
+     font-family: "Proxima Nova ExtraBold",sans-serif;
+     line-height: 1.1;
+}
+.one1 p{
+    color: red;
+    margin: 5px;
+
+}
+.one6 li a{
+    color: #4e6f7e;
+    text-decoration: none;
+    
+    
+
+}
+.one6 li{
+    list-style: none;
+}
+
+.one6{
+    margin-left: 100px;
+    margin-top: 30px;
+    letter-spacing: 0.01rem;
+
+}
+.one7{
+    margin-left: 100px;
+    margin-top: 20px;
+    color:#4e6f7e;
+    font-size: .875rem;
+    line-height: 1.45;
+    font-family:"Proxima Nova ExtraBold",sans-serif; ;
+}
+@media screen and (max-width:400px){
+    nav{
+        display: none;
+    }
+    .four{
+        display: none;
+    }
+   
+    .three img{
+        display: block;
+        height: 3vh;
+        margin-left: 10px;
+        text-align: left;
+       
+    }
+    .three{
+        height: 7vh;
+    }
+    .five{
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .five img{
+        margin-left: 20px;
+        width: 70vw;
+    }
+    .five h1{
+        text-align: center;
+    }
+    .six{
+        margin-left: 50px;
+    }
+    .seven{
+       display: grid;
+       margin-left: 50px;
+       width: 80vw;
+    }
+    .box1{
+        width: 80vw;
+    }
+    .box2{
+        width: 80vw;
+
+    }
+    .box3{
+        width: 80vw;
+    }
+    .nine {
+      
+        flex-wrap: wrap;
+        gap: 35px;
+        flex-shrink: inherit;
+    }
+    .ten{
+        flex-wrap: wrap;
+    }
+    .eleven{
+        margin-top: 600px;
+    }
+   
+    .thirteen{
+       display: block;
+    }
+    .box5{margin-left: 0px;
+        margin-top: 400px;
+
+    }
+    .box6{
+        margin-left: 0px;
+    }
+.box4 img{
+   
+    height: 20vh;
+    width: 40vw;
+}
+    .box4 h3{
+        background-color: #e72429;
+        width: 300px;
+        height: 250px;
+       
+        position: absolute;
+        
+        border-radius: 10px;
+       top: 200px;
+       left: 5px;
+      
+     
+       
+    
+        
+        
+    
+    }
+    .box4{
+        position: relative;
+        
+    }
+    .fifteen{
+        margin-left: 0px;
+      
+    }
+    .fifteen{
+        background-image: linear-gradient(90deg,#E72429 33%,#F76400 66%);
+         ;
+         height: 120vh;
+    }
+    form{
+        background-color: white;
+        width: 90vw;
+        height: 85vh;
+        margin-left: 10px;
+        border-radius: 5px;
+       margin: 10px;
+        
+        
+    }
+    .fifteen h1{
+       
+        margin-left: 10px;
+        
+        color: white;
+        font-family: "Tiempos Headline Bold",serif;
+        font-size: 3rem;
+        line-height: 1.5;
+        flex-wrap: wrap;
+    }
+    form h3{
+        color:#156380;
+        font-family: "Tiempos Headline Bold",serif;
+        font-size: 1.875rem;
+        line-height: 1.5;
+        
+    }
+    input[type=text]{
+        width: 250px;
+        height: 50px;
+        margin: 10px;
+      
+    }
+    input[type=email]{
+        width: 250px;
+        height: 50px;
+       
+    }
+    form button{
+        background-image:linear-gradient(90deg,#E72429 33%,#F76400 66%);
+          ;
+          width: 250px;
+          height: 50px;
+          border-radius: 25px;
+          color: white;
+          text-transform: uppercase;
+          margin-top: 20px;
+    }
+    .fourteen{
+        display: block;
+        margin-top: 50px;
+    }
+    .text{
+        margin-top: -100px;
+       
+        margin-left: 70px;
+    }
+    .vid video{
+        margin-top: -200px;
+      
+      
+       max-width: 100vw;
+    }
+    .one2 li{
+        display: none;
+    }
+    .one3 li{
+        display: none;
+    }
+    .one4 li{
+        display: none;
+    }
+    .one5 li{
+        display: none;
+    }
+    .sixteen{
+        display: block;
+    }
+    .one1{
+        margin-left: 50px;
+    }
+    .one6{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .one7{
+        margin-left: 0px;
+    }
+    :hover.one2 ul li{
+        display: block;
+    }
+    
+    :hover.one3 ul li{
+        display: block;
+    }
+    :hover.one4 ul li{
+        display: block;
+    }
+    :hover.one5 ul li{
+        display: block;
+    }
+
+    
+
+   
+    
+}
