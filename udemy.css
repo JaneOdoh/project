@@ -1,0 +1,1088 @@
+*{
+    box-sizing: border-box;
+    
+}
+nav{
+    background:white;
+    height: 13vh;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    width: 1300px;
+   
+
+}
+.yeah{display: none;}
+nav ul li a .nav-toggle{
+    display: none;
+}
+nav ul li{
+    list-style: none;
+    margin-top: 10px;
+    
+    
+    
+}
+.bi-list{
+    display: none;
+}
+.bi-search{
+    margin-top: 20px;
+}
+
+.wall{
+    margin-top: 17px;
+    padding-right: 10px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+.teacher{
+    margin-top: 17px;
+    padding-right: 13px;
+    font-size: 14px;
+}
+
+nav ul li img {
+    
+    margin-left: 25px;
+    margin-top: 5px;
+}
+  nav ul li a{
+    text-decoration: none;
+    margin: 0px;
+    color: black;
+    margin-top: 20px;
+    font-weight: 400;
+    font-family: udemy sans,sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;;
+    
+} 
+ input{
+    height: 42px;
+    width: 500px;
+    background-color:whitesmoke;
+    
+    
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 17px;
+    border: solid  1px black;
+    
+    margin-right: 10px;
+    
+    
+    
+    
+}
+ ::placeholder{
+    
+    color: brown;
+    
+    text-align: center;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.search{
+    margin-left: 40px;
+}
+nav ul li button{
+    height: 40px;
+    width: 70px;
+    margin-left: 10px;
+    
+    
+
+
+   
+    
+}
+
+
+
+
+
+.box{
+    background: url(/udemy\ girl.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;
+    width: 100%;
+   
+   
+   
+    
+    
+    
+   
+  
+    
+}
+.second{
+    
+
+    top: 130px;
+    right: 800px;
+   
+ 
+    width: 400px;
+    
+    
+    height: 150px;
+    background-color:rgb(255, 255, 255);
+   
+    box-shadow: 0 2px 4px rgba(0,0,0,.08),0 4px 12px rgba(0,0,0,.08);
+
+}
+.second h2{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 30px;
+   
+    
+    
+    
+}
+.wall ul{
+    display: block;
+}
+.box20{
+    margin-bottom: 50px;
+}
+
+.second p{ font-size: large;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family:'Times New Roman', Times, serif;}
+.box{
+ margin-left: 20px;
+}
+.third{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.third h1{
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color
+     emoji,segoe ui emoji,segoe ui symbol;;
+     color: #1c1d1f;;
+
+
+}
+.third p{
+    margin-top: 20px;
+    color: #1c1d1f;;
+    font-size: large;
+    font-family: SuisseWorks,Georgia,Times,times new roman,serif,apple color
+     emoji,segoe ui emoji,segoe ui symbol;}
+
+.third ul{
+    display: flex;
+    margin-top: 20px;
+    width: 700px;
+    justify-content: space-between;
+}
+.third ul li a{
+    text-decoration: none;
+    color: #1c1d1f;;
+    font-size: large;
+    font-family: udemy sans,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;;
+    
+}
+.third ul li{
+    list-style: none;
+}
+body{
+    height: 300vh;
+}
+.omo{
+    margin-top: 30px;
+    border: 1px solid grey;
+    height: 100vh;
+    
+}
+.all{
+    display: flex;
+    
+    margin-top: 40px;
+    justify-content: space-around;
+}
+.omo h2{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.omo p{
+    margin-left: 30px;
+    font-size: large;
+    
+
+}
+
+.omo button{
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.every{ 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color:rgba(135, 207, 235, 0.171);
+    height: 20vh;
+    
+}
+.every  h4{
+    margin-top: 20px;
+}
+
+.very{
+    display: flex;
+    
+    margin-top: 20px;
+    justify-content: space-between;
+    
+}
+.thing{
+    margin-top: 50px;
+}
+
+
+.table{
+    margin-top: 70px;
+}
+   
+.pic{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.pic2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin: 10px;
+}
+
+
+.chair{
+    margin-top: 100px;
+}
+.black{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 50px;
+
+}
+section{
+    margin-top: 100px;
+    ;
+}
+section h2{
+    text-align: left;
+}
+.torch{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 25px;
+}
+.cap1{
+    margin-top: 20px;
+    font-size: large;
+
+    
+    
+}
+.cap5 {
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.cap1 a{
+    color: blueviolet;
+}
+.cap2 a {
+    color: blueviolet;
+}
+.cap3 a{
+    color: blueviolet;
+}
+.cap4 a{
+    color: blueviolet;
+}
+.cap2{
+    margin-top: 20px;
+    font-size: large;
+}
+.cap3{
+    margin-top: 20px;
+    font-size: large;
+}
+.cap4{
+    margin-top: 20px;
+    font-size: large;
+}
+section button{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.bag{
+    display: flex;
+   
+}
+.man{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.anoda{
+    margin-top: 200px;
+
+    margin-left: 70px;
+}
+.anoda h1{
+    margin-left: 30px;
+}
+.anoda button{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    
+}
+.trust{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    background-color:rgba(127, 255, 212, 0.219);
+    margin-left: -30px;
+    height: 25vh;
+}
+
+
+ .trust .mumu li{
+    display: flex;
+    justify-content: space-between;
+    }
+    .trust ul li img{
+        margin: 50px;
+        margin-top: 10px;
+
+        
+
+        
+        
+        
+    }
+
+.family{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.cream{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.cream h2{
+    margin-left: 30px;
+}
+.cream img{
+    margin-left: 30px;
+}
+
+
+.cream button{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: large;
+    
+}
+.power{
+    margin-left: 80px;
+}
+.lap{
+    display: flex;
+    margin-top: 70px;
+   
+}
+.lappy{
+    margin-left: 80px;
+}
+.lappy h1{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.lappy button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+.laptop{
+    margin-left: 150px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+   
+    
+}
+.first1{
+    display: grid;
+
+}
+.first2{
+    display: grid;
+    color: white;
+}
+.first3{
+    display: grid;
+    color: white;
+}
+.but{
+    margin-left: 100px;
+    margin-right: 30px;
+}
+footer{
+    background-color: black;
+    height: 50vh;
+    margin-left: -30px;
+}
+.foot1 a{
+    color: white;
+    padding-top: 10px;
+    text-decoration: none;
+}
+.foot1{
+    display: grid;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-top: 5px;
+}
+.foot2{
+    display: grid;
+    margin-top: 30px;
+    padding-top: 5px;
+    
+}
+.foot2 a{
+    color: white;
+    text-decoration: none;
+}
+.foot3{
+    display: grid;
+    margin-top: 30px;
+    padding-top: 5px;
+    
+}
+.foot3 a {
+    color: white;
+    text-decoration: none;
+}
+.bottom button{
+    color: white;
+    background-color:#1c1d1f;
+    
+    width: 120px;
+    margin-left: 100px;
+    
+    
+}
+.bottom{
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.house{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    width: 1200px;
+}
+.image{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.light{
+    color: white;
+    
+    margin-left: 1100px;
+    margin-top: -30px;
+}
+ .jane{
+    
+    
+    font-size: 1.4rem;
+    margin-left: 20px;
+    margin-top: 20px;
+ }
+
+ .bi-search{
+    margin-left: 10px;
+    position: absolute;
+    top: 30px;
+    
+ }
+ .jeez{
+    display: none;
+ }
+
+ .submenu{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: none;
+    
+ }
+ .categories{
+    margin-top: 22px;
+    padding-right: 20px;
+    padding-left: 10px;
+    list-style: none;
+    width: 100px;
+    height: 100px;
+    font-size: 14px;
+    margin-left: 10px;
+    position: relative;
+    
+    
+    
+    
+    }
+    .wall ul{
+        display: block;
+        background-color: gray;
+        width: 100px;
+    }
+    :hover.wall ul li{
+        display: block;
+    }
+    .categories ul{
+        display: block;
+        background-color: gray;
+        width: 120px;
+        
+        
+    }
+    .categories ul li{
+        display: none;
+    }
+    :hover.categories ul li{
+        display: block;
+    }
+   .wall ul li{
+    display: none;
+   }
+   :hover.wall ul li{
+    display: block;
+   }
+/* MEDIA QUERIES */
+@media only screen and (max-width:992px){
+
+    footer{
+        background-color: black;
+        height: 50vh;
+        margin-left: -30px;
+    }
+    .house{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        width: 800px;
+    }
+    .bottom{
+        padding-left: 8px;
+       margin-bottom: 100px;
+    }
+    .light{
+        color:white;
+        
+        margin-left: 700px;
+        margin-bottom: 40px;
+    }
+    .laptop{
+        margin-left: 60px;
+    }
+    .lappy{
+        margin-left: 50px;
+    }
+    .trust{
+        margin-top: 50px;
+        width: 1000px;
+        
+        
+        background-color:rgba(127, 255, 212, 0.219);
+        
+        height: 15vh;
+    }
+    
+ .trust .mumu li{
+    
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+    .trust ul li img{
+        margin: 25px;
+        margin-top: 10px;
+    flex-wrap: wrap;}
+    
+  .man{
+    margin-left: 10px;
+    margin-top: 50px;
+ }
+  .anoda{
+    margin-top: 200px;
+
+    margin-left: 50px;
+   }
+   .pic{
+   
+    flex-wrap: wrap;
+   
+    
+   
+    
+    
+    margin-top: 20px;
+    
+}
+.pic2{
+    flex-wrap: wrap;
+   
+}
+.very{
+    flex-wrap: wrap;
+}
+.all{
+    flex-wrap: wrap;
+}
+.omo{
+    height: 110vh;
+}
+
+
+.box{
+    background:url(/girly2.jpg);
+    height: 70vh;
+    width: 150vw;
+    background-repeat: no-repeat;
+   
+    
+    
+    
+   
+}
+.bi-search{
+    margin-top: 20px;
+}
+    
+
+nav{
+    background:white;
+    height: 8vh;
+}
+nav ul{
+    display: flex;
+    
+    justify-content: space-between;
+    width: 950px;
+   
+
+}
+nav ul li img {
+    
+    margin-left: 0px;
+    margin-top: 5px;
+}
+input{
+    height: 42px;
+    width: 250px;
+    background-color:whitesmoke;
+    
+    
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 20px;
+    border: solid  1px black;
+    
+    margin-right: 10px;
+    
+    
+    
+    
+}
+.second{
+   right: 500px;
+}
+    
+    
+
+
+    
+}
+@media only screen and (max-width:600px){
+    nav ul{
+        display: flex;
+        
+        
+        justify-content: space-between;
+        width: 500px;
+        margin-bottom: 30px;
+       
+    
+    }
+   
+    
+  
+   
+    
+    .wall{
+        display: none;
+    }
+    .teacher{
+        display: none;
+    }
+    .bi-cart3{
+        display: none;
+    }
+    nav ul li button{
+        display: none;
+    }
+    .hover-links{
+        display: none;
+    }
+    .box{
+        background: url(/girly.jpg);
+        background-repeat: no-repeat;
+        width: 100vw;
+        margin-left: 0px;
+        height: 50vh;
+    }
+    .box5{
+        margin-right: 300px;
+    }
+    nav ul li img {
+       
+    
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    input{
+        height: 42px;
+        width: 250px;
+        background-color:whitesmoke;
+        
+        
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+        margin-top: 10px;
+        border: solid  1px black;
+        
+        margin-right: 10px;
+        
+        
+        
+        
+    }
+    .third ul{
+        display: grid;
+        margin-top: 20px;
+        width: 600px;
+        
+    }
+    .third ul li a{
+        text-decoration: none;
+        color: #1c1d1f;;
+        font-size: large;
+        
+    }
+    .third{
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    .all{
+       flex-wrap: wrap;
+        
+    }
+    .very{
+        flex-wrap: wrap;
+    }
+    
+ .torch{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    gap: 40px;
+    margin-left: 25px;
+ }
+ .cap5 {
+    margin-top: 20px;
+    margin-right: 50px;
+ }
+ .cap3{
+    margin-top: 0px;
+ }
+ .bag{
+    display: block;
+ }
+ .man{
+    margin-left: 0px;
+
+ }
+  .anoda{
+    margin-top: 0px;
+
+  }
+      
+
+
+    .family{
+        display: grid;
+    }
+    .power{
+        margin-left: 0px;
+    }
+    .laptop{
+        margin-left: 0px;
+    }
+    footer{
+        background-color: black;
+        height: 25vh;
+    }
+    .lap{
+        display: block;
+    }
+       
+ .trust .mumu li{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+    
+    }
+    .trust ul li img{
+        margin: 10px;
+        
+        margin-left: 0px;
+    }
+    footer{
+        background-color:black;
+        height: 50vh;
+        margin-left: -30px;
+    }
+    .house{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        width: 700px;
+        gap: 10px;
+    }
+    .bottom{
+        margin-right: 150px;
+       margin-bottom: 100px;
+    }
+    .light{
+        color:white;
+        
+        margin-left: 400px;
+        margin-bottom: 40px;
+    }
+    .omo{
+        height: 168vh;
+    }
+    .bi-list{
+        display: block;
+        margin-top: 10px;
+        font-size: large;
+    }
+    :hover.bi-list ul li{
+        display: block;
+    }
+   
+    .bi-search{
+        margin-top: 10px;
+    }
+    
+    .trust{
+        margin-top: 50px;
+        width: 600px;
+        
+        
+        background-color:rgba(127, 255, 212, 0.219);
+        
+        height: 15vh;
+    }
+    .trust .mumu li img{
+        display: none;
+        flex-direction: row;
+    }
+   
+    .tab1 img{
+        width: 80vw;
+    }
+    .second{
+       display: none;
+    }
+    
+
+}
+@media only screen and (max-width:400px){
+    
+    .wall{
+        display: none;
+    }
+   
+    .teacher{
+        display: none;
+    }
+    
+    nav ul li button{
+        display: none;
+    }
+   
+    
+    input{
+        display: none;
+        
+        
+        
+        
+        
+    }
+   
+    .categories{
+        display: none;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    nav ul li img{
+        height: 20px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .yeah{
+        display: block;
+       margin-left: 0px;
+
+    }
+
+    .bi-cart3{
+        display:block;
+        margin-left: 50px;
+        padding-bottom: 10px;
+        margin-top: 15px;
+      
+        
+    
+    }
+    .jane{
+        display: none;
+    }
+    
+    .bi-search{
+        margin-top:6px;
+       
+    }
+    nav ul li img{
+        margin-left: 60px;
+        margin-top: 10px;
+
+        
+    }
+
+ 
+ .omo{
+    height: 265vh;
+ }
+ .box5{
+    margin-left: 270px;
+ }
+ .torch{
+    width: 100%;
+    flex-direction: column;
+ }
+ .man{
+  margin: 0px;
+ }
+ .trust{
+    text-align: left;
+    width: 400px;
+ }
+ .cream{
+    margin-left: 0px;
+    max-width: 380px;
+ }
+ .laptop{
+    margin-left: 0px;
+ }
+ footer{
+    flex-wrap: wrap;
+    position: relative;
+   
+
+    
+ }
+ .light{
+    margin-left: 200px;
+ }
+ .bottom button{
+    position: absolute;
+    left: 180px;
+  
+   
+ 
+    
+
+ }
+ .second{
+    display: none;
+ }
+ .bottom{
+    width: 30%;
+ }
+ .house{
+    width: 70%;
+
+ }
+ 
+ :hover.yeah ul li{
+    display: block;
+    
+ }
+
+ .yeah ul li{
+    display: none;
+ }
+ .yeah ul{
+    width: 50px;
+  ;
+    display: block;
+    
+ }
+ .yeah{
+    display: block;
+ }
+
+
+ 
+ 
+    
+}
+
+  
+
+    
+
